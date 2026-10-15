@@ -21,5 +21,8 @@
     { "key": "overall", "label": "Overall" }
   ],
   "ratingLabels": ["Poor", "Fair", "Good", "Great", "Excellent"],
-  "backend": { "databaseURL": "", "eventPath": "atp-2026-new-york-projects", "pollIntervalMs": 5000 }
+  "backend": {
+  "databaseURL": "https://awm-atp-judging-default-rtdb.firebaseio.com",
+  "eventPath": "atp-2026-new-york-projects",
+  "pollIntervalMs": 5000
 }
