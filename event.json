@@ -1,0 +1,25 @@
+{
+  "id": "atp-2026-new-york-projects",
+  "title": "ATP 2026 New York Projects",
+  "logos": [
+    { "path": "logos/microsoft.png", "alt": "Microsoft" },
+    { "path": "logos/jpmorgan.png", "alt": "JPMorgan" }
+  ],
+  "poweredLogo": { "path": "logos/microsoft-symbol.png", "alt": "Microsoft symbol" },
+  "teams": [
+    { "id": "1", "name": "Building Mod" },
+    { "id": "2", "name": "Capturing Opp" },
+    { "id": "3", "name": "Scaling Diff" },
+    { "id": "4", "name": "Scaling Sys" },
+    { "id": "5", "name": "Synthetic Build" },
+    { "id": "6", "name": "Why Us" }
+  ],
+  "criteria": [
+    { "key": "innovation", "label": "Innovation" },
+    { "key": "criticalThinking", "label": "Critical Thinking" },
+    { "key": "presentation", "label": "Presentation" },
+    { "key": "overall", "label": "Overall" }
+  ],
+  "ratingLabels": ["Poor", "Fair", "Good", "Great", "Excellent"],
+  "backend": { "databaseURL": "", "eventPath": "atp-2026-new-york-projects", "pollIntervalMs": 5000 }
+}
