@@ -1,5 +1,5 @@
 {
-  "sharedPassword": "",
+  "sharedPassword": "atp2026",
   "judges": [
     { "id": "john-ancona", "name": "John Ancona", "role": "Judge", "email": "john.g.ancona@jpmorgan.com", "photo": null },
     { "id": "andy-powell", "name": "Andy Powell", "role": "Judge", "email": "andrew.powell@jpmorgan.com", "photo": null },
