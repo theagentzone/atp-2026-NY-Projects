@@ -1,18 +1,18 @@
 {
   "sharedPassword": "atp2026",
   "judges": [
-    { "id": "john-ancona", "name": "John Ancona", "role": "Judge", "email": "john.g.ancona@jpmorgan.com", "photo": null },
-    { "id": "andy-powell", "name": "Andy Powell", "role": "Judge", "email": "andrew.powell@jpmorgan.com", "photo": null },
-    { "id": "branka-nikci", "name": "Branka Nikci", "role": "Judge", "email": "branka.b.nikci@jpmorgan.com", "photo": null },
-    { "id": "glenn-hill", "name": "Glenn Hill", "role": "Judge", "email": "glenn.j.hill@jpmorgan.com", "photo": null },
-    { "id": "suzanne-wuebben", "name": "Suzanne Wuebben", "role": "Judge", "email": "suzanne.a.wuebben@jpmorgan.com", "photo": null },
+    { "id": "john-ancona", "name": "John Ancona", "role": "Judge", "email": "john.g.ancona@jpmorgan.com", "photo": "photos/John-Ancona.png" },
+    { "id": "andy-powell", "name": "Andy Powell", "role": "Judge", "email": "andrew.powell@jpmorgan.com", "photo": "photos/Andrew-Powell.png" },
+    { "id": "branka-nikci", "name": "Branka Nikci", "role": "Judge", "email": "branka.b.nikci@jpmorgan.com", "photo": "photos/Branka-Nikci.png" },
+    { "id": "glenn-hill", "name": "Glenn Hill", "role": "Judge", "email": "glenn.j.hill@jpmorgan.com", "photo": "photos/Glenn-Hill.png" },
+    { "id": "suzanne-wuebben", "name": "Suzanne Wuebben", "role": "Judge", "email": "suzanne.a.wuebben@jpmorgan.com", "photo": "photos/Suzanne-Wuebben.png" },
     { "id": "christian-preussner", "name": "Christian Preussner", "role": "Sponsor", "email": "christian.preussner@jpmorgan.com", "photo": "photos/christian-preussner.jpg" },
     { "id": "carrie-spengler", "name": "Carrie Spengler", "role": "Sponsor", "email": "Carrie.Spengler@jpmorgan.com", "photo": "photos/carrie-spengler.jpg" },
-    { "id": "zimu-zhu", "name": "Zimu Zhu", "role": "Sponsor", "email": "zimu.x.zhu@jpmorgan.com", "photo": null },
+    { "id": "zimu-zhu", "name": "Zimu Zhu", "role": "Sponsor", "email": "zimu.x.zhu@jpmorgan.com", "photo": "photos/Zimu-Zhu.png" },
     { "id": "kristian-west", "name": "Kristian West", "role": "Sponsor", "email": "kristian.g.west@jpmorgan.com", "photo": "photos/kristian-west.jpg" },
-    { "id": "eyanna-rasheed", "name": "Eyanna Rasheed", "role": "Program Team", "email": "eyanna.rasheed@jpmorgan.com", "photo": null },
-    { "id": "abby-oneill", "name": "Abby O’Neill", "role": "Program Team", "email": "abby.oneill@jpmchase.com", "photo": null },
-    { "id": "yabu-sesay", "name": "Yabu Sesay", "role": "Program Team", "email": "yabu.t.sesay@jpmorgan.com", "photo": null },
-    { "id": "ruby-bender", "name": "Ruby Bender", "role": "Program Team", "email": "rubaiyat.a.bender@jpmorgan.com", "photo": null }
+    { "id": "eyanna-rasheed", "name": "Eyanna Rasheed", "role": "Program Team", "email": "eyanna.rasheed@jpmorgan.com", "photo": "photos/Eyanna-Rasheed.png" },
+    { "id": "abby-oneill", "name": "Abby O’Neill", "role": "Program Team", "email": "abby.oneill@jpmchase.com", "photo": "photos/Abby-ONeill.png" },
+    { "id": "yabu-sesay", "name": "Yabu Sesay", "role": "Program Team", "email": "yabu.t.sesay@jpmorgan.com", "photo": "photos/Yabu-Sesay.png" },
+    { "id": "ruby-bender", "name": "Ruby Bender", "role": "Program Team", "email": "rubaiyat.a.bender@jpmorgan.com", "photo": "photos/Rubaiyat-Bender.png" }
   ]
 }
