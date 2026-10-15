@@ -1,0 +1,122 @@
+{
+  "sharedPassword": "",
+  "judges": [
+    {
+      "id": "john-ancona",
+      "name": "John Ancona",
+      "role": "Judge",
+      "email": "john.g.ancona@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "andy-powell",
+      "name": "Andy Powell",
+      "role": "Judge",
+      "email": "andrew.powell@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "branka-nikci",
+      "name": "Branka Nikci",
+      "role": "Judge",
+      "email": "branka.b.nikci@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "glenn-hill",
+      "name": "Glenn Hill",
+      "role": "Judge",
+      "email": "glenn.j.hill@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "suzanne-wuebben",
+      "name": "Suzanne Wuebben",
+      "role": "Judge",
+      "email": "suzanne.a.wuebben@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "christian-preussner",
+      "name": "Christian Preussner",
+      "role": "Sponsor",
+      "email": "christian.preussner@jpmorgan.com",
+      "photo": "photos/christian-preussner.jpg",
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "carrie-spengler",
+      "name": "Carrie Spengler",
+      "role": "Sponsor",
+      "email": "Carrie.Spengler@jpmorgan.com",
+      "photo": "photos/carrie-spengler.jpg",
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "zimu-zhu",
+      "name": "Zimu Zhu",
+      "role": "Sponsor",
+      "email": "zimu.x.zhu@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "kristian-west",
+      "name": "Kristian West",
+      "role": "Sponsor",
+      "email": "kristian.g.west@jpmorgan.com",
+      "photo": "photos/kristian-west.jpg",
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "eyanna-rasheed",
+      "name": "Eyanna Rasheed",
+      "role": "Program Team",
+      "email": "eyanna.rasheed@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "abby-oneill",
+      "name": "Abby O\u2019Neill",
+      "role": "Program Team",
+      "email": "abby.oneill@jpmchase.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "yabu-sesay",
+      "name": "Yabu Sesay",
+      "role": "Program Team",
+      "email": "yabu.t.sesay@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": false
+    },
+    {
+      "id": "ruby-bender",
+      "name": "Ruby Bender",
+      "role": "Event Organizer",
+      "email": "rubaiyat.a.bender@jpmorgan.com",
+      "photo": null,
+      "canScore": true,
+      "isOrganizer": true
+    }
+  ]
+}
