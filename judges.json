@@ -109,6 +109,13 @@
       "canScore": true,
       "isOrganizer": false
     },
+      "id": "danny-dias",
+      "name": "Danny Dias",
+      "role": "Event Organizer",
+      "email": "ddiaspestana@microsoft.com",
+      "photo": "photos/Danny-Dias.jpeg",
+      "canScore": true,
+      "isOrganizer": true
     {
       "id": "ruby-bender",
       "name": "Ruby Bender",
